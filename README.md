@@ -86,13 +86,30 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 */
 ```
 
+
 ## Output:
-![Screenshot (11)](https://github.com/SanjayK2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979178/7b0040dc-1386-4b1e-98db-65cee3789f23)
-![Screenshot (12)](https://github.com/SanjayK2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979178/8cbeb3c1-a393-4923-a1cf-d40a9584902f)
-![Screenshot (13)](https://github.com/SanjayK2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979178/a43a1e07-b64e-4011-992e-764cdf862b8a)
-![Screenshot (14)](https://github.com/SanjayK2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979178/193abd6b-ef12-492f-bab1-b0363c2ad760)
-![Screenshot (15)](https://github.com/SanjayK2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979178/ff7d9deb-26c2-4bee-af10-3e58526c18ab)
-![Screenshot (16)](https://github.com/SanjayK2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979178/04240e1b-f7e6-45ab-b2f4-797346d7994f)
+### head
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/a1ddf9ac-987f-413e-9e1d-b1f4eb701291)
+### head after dropping sl_no and salary
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/4cbe1341-7068-4673-b57b-7fd5a49dd0ab)
+### isnull()
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/ad3d675c-b756-4625-a35c-b688cd8385e0)
+### duplicated().sum()
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/05f7731b-1526-4a5f-89ae-e289ed729e49)
+### data1
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/135e89f6-649f-4960-8096-3b1c498b5e3d)
+### X
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/503a0d02-9a5c-4414-97e5-f4d7ab095144)
+### Y
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/eac0513a-7d91-4215-85e2-04e9678f38b6)
+### Y_pred
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/f04cc7ea-233a-4a2a-9e01-8be72732b26c)
+### accuracy
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/03b4af28-c99a-42eb-927c-376aaebf3866)
+### classification report
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/14fc1bad-f245-4531-971d-282c049711d1)
+### Predict
+![image](https://github.com/SanjayBalaji0/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145533553/4b0e911d-9017-488e-88bc-903791e5a413)
 
 
 
